@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: f9cb05733db3d4c118354e64afee2da7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5559640886496339707
+    second: fence part horizontal_0
+  - first:
+      213: -8403284975683241212
+    second: fence part horizontal_1
+  - first:
+      213: -7476877462295565043
+    second: fence part horizontal_2
+  - first:
+      213: 2279353325751192549
+    second: fence part horizontal_3
+  - first:
+      213: -2403819465897036796
+    second: fence part horizontal_4
+  - first:
+      213: -580224962076481763
+    second: fence part horizontal_5
+  - first:
+      213: 3312132664641023921
+    second: fence part horizontal_6
+  - first:
+      213: -8925859688921399390
+    second: fence part horizontal_7
+  - first:
+      213: -6275279426496704714
+    second: fence part horizontal_8
+  - first:
+      213: 5262441454879090159
+    second: fence part horizontal_9
+  - first:
+      213: 3074947110910316666
+    second: fence part horizontal_10
+  - first:
+      213: -5421094445796136395
+    second: fence part horizontal_11
+  - first:
+      213: -153707234937348205
+    second: fence part horizontal_12
+  - first:
+      213: -9012557524202773346
+    second: fence part horizontal_13
+  - first:
+      213: -1706334699156838817
+    second: fence part horizontal_14
+  - first:
+      213: 4086050592788736784
+    second: fence part horizontal_15
+  - first:
+      213: 2258070158685451131
+    second: fence part horizontal_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fence part horizontal_0
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 998
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509d5a9e11038d2b0800000000000000
+      internalID: -5559640886496339707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence part horizontal_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1020
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bf50e46d8816b80800000000000000
+      internalID: -8403284975683241212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence part horizontal_2
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1012
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0dafbeef8bcc3890800000000000000
+      internalID: -7476877462295565043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence part horizontal_3
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1013
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb4103f5c3e1af10800000000000000
+      internalID: 2279353325751192549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence part horizontal_4
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 992
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404b9078eeae3aed0800000000000000
+      internalID: -2403819465897036796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence part horizontal_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 631
+        width: 1953
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17ed9d9870a2f7f0800000000000000
+      internalID: -580224962076481763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence part horizontal_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 936
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf65ec2c1f07fd20800000000000000
+      internalID: 3312132664641023921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence part horizontal_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 997
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af7cd677e9f02480800000000000000
+      internalID: -8925859688921399390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence part horizontal_8
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 993
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fc8550c9ab9e8a0800000000000000
+      internalID: -6275279426496704714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence part horizontal_9
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 986
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5ab512f92f70940800000000000000
+      internalID: 5262441454879090159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence part horizontal_10
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 956
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a705ce80b186caa20800000000000000
+      internalID: 3074947110910316666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence part horizontal_11
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 973
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a6a70e25764c4b0800000000000000
+      internalID: -5421094445796136395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence part horizontal_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 657
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fd62e851cedddf0800000000000000
+      internalID: -153707234937348205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence part horizontal_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 656
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94ae1caea6fce280800000000000000
+      internalID: -9012557524202773346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence part horizontal_14
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 633
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5665d4b1a1e158e0800000000000000
+      internalID: -1706334699156838817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence part horizontal_15
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 644
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b62758d5194b830800000000000000
+      internalID: 4086050592788736784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence part horizontal_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 628
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b733b5678d6465f10800000000000000
+      internalID: 2258070158685451131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fence part horizontal_0: -5559640886496339707
+      fence part horizontal_1: -8403284975683241212
+      fence part horizontal_10: 3074947110910316666
+      fence part horizontal_11: -5421094445796136395
+      fence part horizontal_12: -153707234937348205
+      fence part horizontal_13: -9012557524202773346
+      fence part horizontal_14: -1706334699156838817
+      fence part horizontal_15: 4086050592788736784
+      fence part horizontal_16: 2258070158685451131
+      fence part horizontal_2: -7476877462295565043
+      fence part horizontal_3: 2279353325751192549
+      fence part horizontal_4: -2403819465897036796
+      fence part horizontal_5: -580224962076481763
+      fence part horizontal_6: 3312132664641023921
+      fence part horizontal_7: -8925859688921399390
+      fence part horizontal_8: -6275279426496704714
+      fence part horizontal_9: 5262441454879090159
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
